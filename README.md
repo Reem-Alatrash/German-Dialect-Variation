@@ -1,4 +1,4 @@
-# A Large-scale Logistic Regression Analysis of Kiezdeutsch Syntax
+# Logistic Regression Analysis of Kiezdeutsch
  Selected scripts from the implmentation of my Master's thesis. The thesis is a large-scale logistic regression analysis of Kiezdeutsch syntax, which aims to computationally find the syntactical differences between standard German and the urban vernacular Kiezdeutsch.
  
  ## About
