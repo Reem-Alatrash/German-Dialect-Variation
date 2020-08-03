@@ -1,10 +1,10 @@
 # Logistic Regression Analysis of Kiezdeutsch
- Selected scripts from the implmentation of my Master's thesis. The thesis is a large-scale logistic regression analysis of Kiezdeutsch syntax, which aims to computationally find the syntactical differences between standard German and the urban vernacular Kiezdeutsch.
+ Selected scripts from my Master's thesis. The thesis is a large-scale logistic regression analysis of Kiezdeutsch syntax, which aims to computationally find the syntactical differences between standard German and the urban vernacular Kiezdeutsch.
  
  ## About
  
  The thesis exploits generalized linear models (GLMs) to learn which syntactic constructions found in Kiezdeutsch are characteristic of it in comparison to standard German.
- This is done on both the word and the phrase level using part-of-speech n-grams. The thesis identified several POS n-gram types which support the following phenomena: bare NPs, ADV SVO, and V1. Moreover, significant associations between Kiezdeutsch and POS trigrams with negation were identified. Furthermore, the thesis found limited evidence to show that lack of relative clauses is linked to Kiezdeutsch.
+ This is done on both the word and the phrase level using part-of-speech (POS) n-grams. The thesis identified several POS n-gram types which support the following phenomena: bare NPs, ADV SVO, and V1. Moreover, significant associations between Kiezdeutsch and POS trigrams with negation were identified. Furthermore, the thesis found limited evidence to show that lack of relative clauses is linked to Kiezdeutsch.
  
  ## Data
  
